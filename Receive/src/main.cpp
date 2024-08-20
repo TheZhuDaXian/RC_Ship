@@ -3,6 +3,7 @@
 #include <nRF24L01.h>
 #include <RF24.h>
 
+//引脚定义
 #define CE_PIN PA3
 #define CSN_PIN PA4
 #define SCK_PIN PA5
